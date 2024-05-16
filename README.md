@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yousseftopaji/YoussefTopaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 - 🌱 I’m currently learning Front-end Development as a team member @HackYourFuture Denmark
 - 👯 I’m looking to collaborations on web development projects and open for other ideas as well!
 - 📫 How to reach me: youssefftopaji@gmail.com
