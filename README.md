@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📝 I'm currently studying at VIA University college Software Technology Engineering.
-- 🌱 I've recently graduated a web development course at @HackYourFuture Denmark.
+- 🌱 I've recently graduated a web development course at HackYourFuture Denmark.
 - 👯 I’m looking to collaborations on web development projects and open for other ideas as well!
 - 📫 How to reach me: youssefftopaji@gmail.com
 - 🌐 https://yousseftopaji.netlify.app/
