@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📝 I'm currently studying at VIA University college Software Technology Engineering.
+- 📝 I'm currently studying at VIA University college Software Technology Engineering, in my second semester.
 - 🌱 I've recently graduated a web development course at [HackYourFuture](https://www.hackyourfuture.dk/) Denmark.
 - 👯 I’m looking to collaborations on web development projects and open for other ideas as well!
 - 📫 How to reach me: youssefftopaji@gmail.com
