@@ -9,7 +9,7 @@ My background combines problem-based university projects, hands-on full-stack de
 
 ### 🔧 Technical Focus
 - **Languages:** C# (.NET), Java, JavaScript, Python  
-- **Frameworks:** Blazor, Entity Framework Core, Spring Boot  
+- **Frameworks:** React, Entity Framework Core, Hibernate, Spring Boot  
 - **Concepts:** OOP, Distributed Systems, REST APIs, SQL, Design Patterns  
 - **Practices:** Scrum, Unified Process, Layered Architecture, Team-based Development  
 
